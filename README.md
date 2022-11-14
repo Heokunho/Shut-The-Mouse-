@@ -52,4 +52,4 @@ Tab : 도움말
 
 [데모 영상]
 
-https://youtu.be/RXhIEMLQea0
+- https://youtu.be/RXhIEMLQea0
