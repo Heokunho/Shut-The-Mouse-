@@ -26,7 +26,11 @@ E : 아이템 획득
 
 좌클릭 : 공격
 
-Tab : 함정/몬스터 정보
+Tab : 도움말
+
+![125](https://user-images.githubusercontent.com/93777460/201590802-888e2132-3840-4adf-949e-7c0f7581cc8d.png)
+![13637](https://user-images.githubusercontent.com/93777460/201590812-f0c25ac5-46d6-4ea9-b1e7-b6f19988c45e.png)
+
 
 [스토리]
 
@@ -45,3 +49,7 @@ Tab : 함정/몬스터 정보
 -몬스터
 
 -보스 몬스터
+
+[데모 영상]
+
+https://youtu.be/RXhIEMLQea0
